@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+}
+
+.accent {
+    color: red;
+}
